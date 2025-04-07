@@ -1,12 +1,12 @@
 # Table of contents
 
-## Group 1
+## Information
 
 * [Visual Studio Code LUA Extension for Perception API by NotZw3tty](README.md)
 
 ## General
 
-* [Input System](general/general.md)
+* [Input System](general/readme.md)
 * [Registering Callbacks](general/registering-callbacks.md)
 * [File System](general/file-system.md)
 * [Rendering](general/rendering.md)
