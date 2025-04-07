@@ -6,7 +6,7 @@
 
 ## General
 
-* [Input System](<README (1).md>)
+* [Input System](general/readme.md)
 * [Registering Callbacks](general/registering-callbacks.md)
 * [File System](general/file-system.md)
 * [Rendering](general/rendering.md)
