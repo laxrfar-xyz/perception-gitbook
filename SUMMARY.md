@@ -1,6 +1,3 @@
----
-layout: default
----
 # Table of contents
 
 ## Group 1
@@ -9,17 +6,13 @@ layout: default
 
 ## General
 
-* [Input System](general/readme.md)
+* [Input System](general/general.md)
 * [Registering Callbacks](general/registering-callbacks.md)
 * [File System](general/file-system.md)
 * [Rendering](general/rendering.md)
 * [Memory](general/memory.md)
 * [Process](general/process.md)
 * [Networking](general/networking.md)
-
-***
-
-
 
 ## CS2
 
