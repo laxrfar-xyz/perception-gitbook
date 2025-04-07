@@ -1,5 +1,6 @@
 ---
 description: Using the Rendering API
+layout: default
 ---
 
 # Rendering

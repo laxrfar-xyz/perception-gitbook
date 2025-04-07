@@ -1,5 +1,6 @@
 ---
 description: Counter-Strike 2 - Extended API (cs2)​
+layout: default
 ---
 
 # Counter Strike 2 - Extended

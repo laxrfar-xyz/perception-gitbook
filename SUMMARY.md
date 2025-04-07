@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Table of contents
 
 ## Group 1
@@ -10,12 +13,13 @@
 * [Registering Callbacks](general/registering-callbacks.md)
 * [File System](general/file-system.md)
 * [Rendering](general/rendering.md)
+* [Memory](general/memory.md)
+* [Process](general/process.md)
+* [Networking](general/networking.md)
 
 ***
 
-* [Memory](memory.md)
-* [Process](process.md)
-* [Networking](networking.md)
+
 
 ## CS2
 

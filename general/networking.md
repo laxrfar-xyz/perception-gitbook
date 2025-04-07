@@ -1,5 +1,6 @@
 ---
 description: Using Networking API
+layout: default
 ---
 
 # Networking

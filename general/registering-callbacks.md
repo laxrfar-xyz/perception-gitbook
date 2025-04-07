@@ -1,5 +1,6 @@
 ---
 description: Registering and Using Callbacks
+layout: default
 ---
 
 # Registering Callbacks

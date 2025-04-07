@@ -1,5 +1,6 @@
 ---
 description: Valorant - Class Offset Dumping
+layout: default
 ---
 
 # Valorant - Extended

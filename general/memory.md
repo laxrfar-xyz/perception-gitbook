@@ -1,5 +1,7 @@
+
 ---
 description: Using Memory API
+layout: default
 ---
 
 # Memory

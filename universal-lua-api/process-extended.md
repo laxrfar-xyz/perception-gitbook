@@ -1,5 +1,6 @@
 ---
 description: Extended Proc API – Attach to a Process
+layout: default
 ---
 
 # Process - Extended

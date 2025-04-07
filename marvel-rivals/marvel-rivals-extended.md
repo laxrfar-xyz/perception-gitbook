@@ -1,5 +1,6 @@
 ---
 description: Marvel Rivals - Extended API (marvel_rivals)​
+layout: default
 ---
 
 # Marvel Rivals - Extended

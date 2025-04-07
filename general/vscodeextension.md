@@ -1,4 +1,7 @@
 ---
+layout: default
+---
+
 description: Introducing the Perception Lua API Extension for VS Code!​
 ---
 

@@ -1,5 +1,6 @@
 ---
 description: Supported Anti-Cheats in Our Universal Lua API product
+layout: default
 ---
 
 # Supported Anti-Cheats

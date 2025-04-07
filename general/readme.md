@@ -1,5 +1,6 @@
 ---
 description: Using the Input API
+layout: default
 ---
 
 # Input System
