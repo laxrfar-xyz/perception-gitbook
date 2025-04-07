@@ -1,8 +1,12 @@
 # Table of contents
 
+## Group 1
+
+* [Visual Studio Code LUA Extension for Perception API by NotZw3tty](README.md)
+
 ## General
 
-* [Input System](README.md)
+* [Input System](<README (1).md>)
 * [Registering Callbacks](general/registering-callbacks.md)
 * [File System](general/file-system.md)
 * [Rendering](general/rendering.md)
@@ -25,7 +29,7 @@
 
 * [Valorant - Extended](valorant/valorant-extended.md)
 
-## &#x20;Universal Lua API
+## Universal Lua API
 
 * [Process - Extended](universal-lua-api/process-extended.md)
 * [Supported Anti-Cheats](universal-lua-api/supported-anti-cheats.md)
